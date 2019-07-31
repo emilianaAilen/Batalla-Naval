@@ -1,0 +1,12 @@
+.ship-piece{
+    background-color: mediumpurple;
+}
+​
+.ship-piece-hited{
+    background-color: darkmagenta;
+    color: white;
+}
+​
+.salvo{
+    background-color: black;
+}
